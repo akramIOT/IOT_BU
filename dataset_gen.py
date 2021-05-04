@@ -1,7 +1,4 @@
-# Copyright (c) 2021 by Cisco Systems, Inc.
-# All rights reserved.
-#
-# Author: larzhang@cisco.com
+
 #
 
 #!usr/bin/python
